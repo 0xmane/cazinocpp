@@ -8,7 +8,7 @@ void concluzieJoc()
 {
 	if (suma == 0)
 	{
-		std::cout << "Nu mai bani coie, mars la munca\n";
+		std::cout << "Nu mai bani, mars la munca\n";
 	}
 	std::cout << "Mai vrei sa joci o data (y/n?)";
 	std::cin >> alegere;
